@@ -1,5 +1,7 @@
    /*header*/
-:root {color: #434455;}
+:root {
+--accent-color:#434455;
+}
 
 .list {
     list-style: none;
@@ -11,7 +13,7 @@
 
 body {
     font-family: "Roboto", sans-serif;
-    color: #434455;
+    color: var(--accent-color);
     background-color: #FFFFFF;
 }
 
@@ -24,7 +26,8 @@ body {
     text-transform: uppercase;
 color: #4D5AE5;}
 
-.logo {color:#2e2f42}
+.logo {color: #f4f4fd}
+.logo-footer {color: #f4f4fd }
 
 .menu-link a {
     font-family: 'Roboto', sans-serif;
