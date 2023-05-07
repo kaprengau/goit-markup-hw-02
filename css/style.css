@@ -49,10 +49,11 @@ color: #4D5AE5;}
     line-height: 1.5;
 letter-spacing: 0.02em;
 color:var(--accend-color);
-
 }
 .list-link a:hover{color: #404bbf}
 .list-link a:focus {color: #404bbf}
+
+.link-adress {color: var(--accent-color);}
 
 /*main*/
 
