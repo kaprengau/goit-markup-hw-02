@@ -40,6 +40,7 @@ color: #4D5AE5;}
 
 /*head adress*/
 .list-link {
+    font-style: normal;
     line-height: 1.5;
 letter-spacing: 0.02em;
 color:#434455;
@@ -70,9 +71,8 @@ letter-spacing: 0.04em;
 color: #ffffff;
 cursor: pointer
 }
-
-.main-button :hover {background-color: #404BBF}
-.main-button :focus {background-color: #404BBF}
+.main-button a:hover {background-color: #404BBF}
+.main-button a:focus {background-color: #404BBF}
 
 /*Content*/
 
