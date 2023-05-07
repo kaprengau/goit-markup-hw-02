@@ -125,3 +125,19 @@ letter-spacing: 0.02em;
 }
 
 .footer {background-color: #2e2f42;}
+
+
+/******PORTFILIO******/
+
+.content-button {background-color: #F4F4FD;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+color: #4d5ae5;
+cursor: pointer;}
+.content-button :hover {color: #FFFFFF;
+background-color: #404BBF}
+.content-button :focus {color: #FFFFFF;
+background-color: #404BBF}
