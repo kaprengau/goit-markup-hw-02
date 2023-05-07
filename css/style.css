@@ -1,6 +1,7 @@
    /*header*/
 :root {
 --accent-color:#434455;
+--text-color: #2e2f42;
 
 }
 
@@ -90,6 +91,7 @@ color: #2e2f42;
 
 .content-text {line-height: 1.5;
 letter-spacing: 0.02em;
+color: var(--text-color);
 
 }
 
