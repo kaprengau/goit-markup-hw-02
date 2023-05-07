@@ -142,8 +142,9 @@ letter-spacing: 0.02em;
     line-height: 1.5;
     letter-spacing: 0.04em;
 color: #4d5ae5;
-cursor: pointer;}
-.content-button button:hover {color: #FFFFFF;
+cursor: pointer;
+}
+.content-button:hover {color: #FFFFFF;
 background-color: #404BBF}
-.content-button button:focus {color: #FFFFFF;
+.content-button:focus {color: #FFFFFF;
 background-color: #404BBF}
