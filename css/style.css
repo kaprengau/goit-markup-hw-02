@@ -71,8 +71,8 @@ letter-spacing: 0.04em;
 color: #ffffff;
 cursor: pointer
 }
-.main-button a:hover {background-color: #404BBF}
-.main-button a:focus {background-color: #404BBF}
+.main-button :hover {background-color: #404BBF}
+.main-button :focus {background-color: #404BBF}
 
 /*Content*/
 
