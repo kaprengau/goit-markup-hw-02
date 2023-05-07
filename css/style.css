@@ -1,8 +1,8 @@
    /*header*/
 :root {
 --accent-color:#434455;
---text-color: #2e2f42;
 
+--link-color: #2e2f42;
 }
 
 .list {
@@ -28,7 +28,7 @@ body {
     text-transform: uppercase;
 color: #4D5AE5;}
 
-.logo {color:#2e2f42}
+.logo {color:var(--link-color)}
 .logo-footer {color: #f4f4fd }
 
 .menu-link a {
@@ -48,7 +48,7 @@ color: #4D5AE5;}
     font-style: normal;
     line-height: 1.5;
 letter-spacing: 0.02em;
-color:#434455;
+color:var(--accent-color);
 
 }
 .list-link a:hover{color: #404bbf}
