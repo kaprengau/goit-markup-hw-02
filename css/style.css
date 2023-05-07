@@ -48,7 +48,7 @@ color: #4D5AE5;}
     font-style: normal;
     line-height: 1.5;
 letter-spacing: 0.02em;
-color:var(--accent-color);
+color:var(--link-color);
 
 }
 .list-link a:hover{color: #404bbf}
