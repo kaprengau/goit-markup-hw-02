@@ -1,6 +1,7 @@
    /*header*/
 :root {
 --accent-color:#434455;
+
 }
 
 .list {
@@ -26,7 +27,7 @@ body {
     text-transform: uppercase;
 color: #4D5AE5;}
 
-.logo {color:#f4f4fd}
+.logo {color:#2e2f42}
 .logo-footer {color: #f4f4fd }
 
 .menu-link a {
