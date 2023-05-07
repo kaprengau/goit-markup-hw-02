@@ -31,13 +31,13 @@ color: #4D5AE5;}
 .logo {color:var(--link-color)}
 .logo-footer {color: #f4f4fd }
 
-.menu-link a {color: var(--accent-color);
+.menu-link a {
     font-family: 'Roboto', sans-serif;
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        color: var(--accent-color);
+        color: var(--link-color);
 }
 .menu-link a:hover {color: #404bbf}
 .menu-link a:focus {color: #404bbf}
@@ -48,7 +48,7 @@ color: #4D5AE5;}
     font-style: normal;
     line-height: 1.5;
 letter-spacing: 0.02em;
-color:var(--link-color);
+color:var(--accend-color);
 
 }
 .list-link a:hover{color: #404bbf}
