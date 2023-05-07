@@ -1,1 +1,37 @@
+   /*header*/
+
+.list {
+    list-style: none;
+}
+
 .link {text-decoration: none;}
+
+
+
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+}
+
+.logo-link {font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    line-height: 21px;
+color: #4D5AE5;}
+
+.logo {color:#2e2f42}
+
+/*head adress*/
+.link-adress{line-height: 1.5;
+letter-spacing: 0.02em;
+color:#434455;
+}
+.link-adress:link:hover {
+    color: #404bbf
+}
+ .link-adress:focus {color: #404bbf}
