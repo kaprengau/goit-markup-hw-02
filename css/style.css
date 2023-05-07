@@ -71,12 +71,13 @@ letter-spacing: 0.04em;
 color: #ffffff;
 cursor: pointer
 }
-.main-button :hover {background-color: #404BBF}
-.main-button :focus {background-color: #404BBF}
+.main-button:hover {background-color: #404BBF}
+.main-button:focus {background-color: #404BBF}
 
 /*Content*/
 
-.content-title {font-weight: 500;
+.content-title {
+font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
