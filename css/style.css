@@ -44,7 +44,7 @@ color: #4D5AE5;}
 
 
 /*head adress*/
-.list-link >a {
+.list-link {
     font-style: normal;
     line-height: 1.5;
 letter-spacing: 0.02em;
